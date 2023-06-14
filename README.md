@@ -1,16 +1,24 @@
 <h1 align="center">Hi 👋 welcome to the sim's Space</h1>
-<h3 align="center">No simsons This is DongMok sim🤣</h3>
+<h3 align="center">No simpsons. This is DongMok sim🤣</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-<h5 align="left">And</h5>
 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=ffffff)
+![Shell Script](https://img.shields.io/badge/-Grafana-F46800?style=plastic&logo=grafana&logoColor=222222)
+![Grafana](https://img.shields.io/badge/-Shell_Script-43853d?style=plastic&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=plastic&logo=oracle&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazonaws&logoColor=ffffff)
+![AWS RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=plastic&logo=amazonrds&logoColor=ffffff)
+![AWS EC2](https://img.shields.io/badge/-amazonec2-FF9900?style=plastic&logo=amazonec2&logoColor=ffffff)
+![AWS S3](https://img.shields.io/badge/-amazons3-569A31?style=plastic&logo=amazons3&logoColor=ffffff)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slack&logoColor=ffffff)
+![jenkins](https://img.shields.io/badge/-jenkins-D24939?style=plastic&logo=jenkins&logoColor=ffffff)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=plastic&logoColor=ffffff)
 
-<h2 align="left">Things that I'm into:</h2>
+<h2 align="left">Somethings I'm into:</h2>
 LEGO、GYM、筋トレ
 
