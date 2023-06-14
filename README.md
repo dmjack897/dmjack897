@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 welcome to the sim's Space</h1>
-<h3 align="center">No simpsons. This is DongMok sim🤣</h3>
+<h1 align="center">Hi 👋 Thie is shim!</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
