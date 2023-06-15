@@ -26,7 +26,8 @@
 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=plastic&logo=grafana&logoColor=ffffff)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=plastic&logoColor=ffffff)
-![pagerduty](https://img.shields.io/badge/-pagerduty-06AC38?style=plastic&logo=pagerduty&logoColor=ffffff)
+![pagerduty](https://img.shields.io/badge/-Pagerduty-06AC38?style=plastic&logo=pagerduty&logoColor=ffffff)
+![pagerduty](https://img.shields.io/badge/-New_Relic-008C99?style=plastic&logo=newrelic&logoColor=ffffff)
 
 <h3 align="left">Comnunition</h3>
 
