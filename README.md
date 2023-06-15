@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋 This is shim!</h1>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h1 align="center">Hi 👋 Let Me Introduce Myself</h1>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Database</h3>
