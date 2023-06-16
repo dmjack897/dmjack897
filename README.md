@@ -23,12 +23,13 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=plastic&logo=grafana&logoColor=ffffff)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=plastic&logoColor=ffffff)
 ![pagerduty](https://img.shields.io/badge/-Pagerduty-06AC38?style=plastic&logo=pagerduty&logoColor=ffffff)
-![pagerduty](https://img.shields.io/badge/-New_Relic-008C99?style=plastic&logo=newrelic&logoColor=ffffff)
+![New Relic](https://img.shields.io/badge/-New_Relic-008C99?style=plastic&logo=newrelic&logoColor=ffffff)
 
 <h3 align="left">Comnunition</h3>
 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slack&logoColor=ffffff)
 ![confluence](https://img.shields.io/badge/-confluence-172B4D?style=plastic&logo=confluence&logoColor=ffffff)
+![jira](https://img.shields.io/badge/-jira-0052CC?style=plastic&logo=jira&logoColor=ffffff)
 
 <h3 align="left">Others</h3>
 
