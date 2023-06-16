@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋 Introduce My A to Z</h1>
 
+<h3 align="left">DBA로 커리어를 이어가고 있는 심동목입니다.</h3>
+
+- 🌱 I live in **Japan** since 2016
+- 📫 How to reach me **dmjack@naver.com**
+- ⚡ Somethings I'm into : <img width="48" height="48" src="https://img.icons8.com/color/48/lego.png" alt="lego"/> <img width="64" height="64" src="https://img.icons8.com/cotton/64/barbell.png" alt="barbell"/> <img width="64" height="64" src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/external-gym-gym-konkapp-outline-color-konkapp.png" alt="external-gym-gym-konkapp-outline-color-konkapp"/> <img width="64" height="64" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/external-chicken-food-kiranshastry-lineal-color-kiranshastry.png" alt="external-chicken-food-kiranshastry-lineal-color-kiranshastry"/> <img width="48" height="48" src="https://img.icons8.com/color/48/manchester-city-fc.png" alt="manchester-city-fc"/> <img width="64" height="64" src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/external-jumping-rope-fitness-and-diet-xnimrodx-lineal-color-xnimrodx.png" alt="external-jumping-rope-fitness-and-diet-xnimrodx-lineal-color-xnimrodx"/>
+
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Database</h3>
 
@@ -34,7 +40,3 @@
 <h3 align="left">Others</h3>
 
 ![jenkins](https://img.shields.io/badge/-jenkins-D24939?style=plastic&logo=jenkins&logoColor=ffffff)
-
-<h2 align="left">Somethings I'm into:</h2>
-LEGO、GYM、筋トレ
-
